@@ -15,7 +15,7 @@
   background: #16161a;
 }
 .theme-bg {
-  background: #f15f22;
+  background: #400a86;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -30,28 +30,28 @@
   color: #16161a;
 }
 .theme-color {
-  color: #f15f22;
+  color: #4419d0;
 }
 .boxed-btn {
   background: #fff;
-  color: #f15f22 !important;
+  color: #4419d0 !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Teko", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #f15f22;
+  border: 1px solid #4419d0;
   letter-spacing: 3px;
   text-align: center;
-  color: #f15f22;
+  color: #4419d0;
   text-transform: uppercase;
   cursor: pointer;
 }
 .boxed-btn:hover {
-  background: #f15f22;
+  background: #4419d0;
   color: #fff !important;
-  border: 1px solid #f15f22;
+  border: 1px solid #4419d0;
 }
 .boxed-btn:focus {
   outline: none;
@@ -322,10 +322,10 @@ hr {
 }
 .owl-carousel:hover .owl-nav div:hover {
   color: #fff;
-  background: #ff3500;
+  background: #4419d0;
 }
 .btn {
-  background: #ff5f13;
+  background: #4419d0;
   padding: 27px 44px;
   text-transform: uppercase;
   font-family: "Barlow", sans-serif;
@@ -380,7 +380,7 @@ hr {
 }
 .submit-btn {
   width: 100%;
-  background: #ff5f13;
+  background: #4419d0;
   padding: 19px 44px;
   color: #fff;
   cursor: pointer;
@@ -453,7 +453,7 @@ hero-btn {
   top: 0;
   width: 101%;
   height: 101%;
-  background: #f15f22;
+  background: #4419d0;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -471,7 +471,7 @@ hero-btn {
 }
 #scrollUp,
 #back-top {
-  background: #f15f22;
+  background: #4419d0;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -1566,7 +1566,7 @@ hero-btn {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #f15f22;
+  border-top-color: #4419d0;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -1954,7 +1954,7 @@ hero-btn {
 .section-tittle span {
   font-size: 18px;
   display: block;
-  color: #f15f22;
+  color: #4419d0;
   font-weight: 600;
   text-transform: capitalize;
   margin-bottom: 17px;
@@ -2012,7 +2012,7 @@ hero-btn {
   background: #16161a;
 }
 .theme-bg {
-  background: #f15f22;
+  background: #4419d0;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -2027,7 +2027,7 @@ hero-btn {
   color: #16161a;
 }
 .theme-color {
-  color: #f15f22;
+  color: #4419d0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area .header-bottom {
@@ -2087,7 +2087,7 @@ hero-btn {
   padding-left: 25px;
 }
 .header-area .header-top .header-info-right .header-social li a:hover {
-  color: #f15f22;
+  color: #4419d0;
 }
 .main-header {
   position: relative;
@@ -2122,7 +2122,7 @@ hero-btn {
   }
 }
 .main-header .main-menu ul li:hover > a {
-  color: #f15f22;
+  color: #4419d0;
 }
 .main-header .main-menu ul ul.submenu {
   position: absolute;
@@ -2134,7 +2134,7 @@ hero-btn {
   opacity: 0;
   box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
   padding: 17px 0;
-  border-top: 5px solid #f15f22;
+  border-top: 5px solid #4419d0;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -2151,7 +2151,7 @@ hero-btn {
   color: #fdfdfd;
 }
 .main-header .main-menu ul ul.submenu > li > a:hover {
-  color: #f15f22;
+  color: #4419d0;
   background: none;
   padding-left: 13px !important;
 }
@@ -2221,7 +2221,7 @@ hero-btn {
   top: -34px;
 }
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #f15f22 !important;
+  background-color: #4419d0 !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav {
   margin-top: 9px !important;
@@ -2229,7 +2229,7 @@ hero-btn {
 }
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #f15f22;
+  color: #4419d0;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a {
   font-size: 15px;
@@ -2330,7 +2330,7 @@ hero-btn {
   }
 }
 .slider-area .hero__caption h1 span {
-  color: #f15f22;
+  color: #4419d0;
 }
 .slider-area form.search-box {
   display: flex;
@@ -2401,7 +2401,7 @@ hero-btn {
 .slider-area form.search-box .search-form a {
   width: 100%;
   height: 60px;
-  background: #ff5f13;
+  background: #4419d0;
   font-size: 20px;
   line-height: 1;
   text-align: center;
@@ -2559,7 +2559,7 @@ hero-btn {
   align-items: center;
 }
 .our-info-area .single-info .info-icon span {
-  color: #f15f22;
+  color: #4419d0;
   font-size: 44px;
   margin-bottom: 0;
   display: block;
@@ -2607,7 +2607,7 @@ hero-btn {
   content: "";
   width: 100%;
   height: 0;
-  background: #ff5f13;
+  background: #4419d0;
   transition: 0.6s;
   bottom: 0;
   left: 0;
@@ -2615,7 +2615,7 @@ hero-btn {
   border-radius: 6px;
 }
 .categories-area .single-cat .cat-icon span {
-  color: #f15f22;
+  color: #4419d0;
   font-size: 50px;
   margin-bottom: 30px;
   display: block;
@@ -2886,7 +2886,7 @@ hero-btn {
   .radio
   input[type="radio"]:checked
   + .radio-label:before {
-  background-color: #f15f22;
+  background-color: #4419d0;
   box-shadow: inset 0 0 0 4px #f4f4f4;
 }
 .contact-form-area
@@ -2898,7 +2898,7 @@ hero-btn {
   input[type="radio"]:focus
   + .radio-label:before {
   outline: none;
-  border-color: #f15f22;
+  border-color: #4419d0;
 }
 .contact-form-area
   .contact-form-wrapper
@@ -2954,7 +2954,7 @@ hero-btn {
   font-size: 20px;
 }
 .team-area .single-team .team-caption h3 a:hover {
-  color: #f15f22;
+  color: #4419d0;
 }
 .team-area .single-team .team-caption p {
   color: #2c234d;
@@ -2969,7 +2969,7 @@ hero-btn {
   color: #fff;
 }
 .team-area .single-team:hover .team-caption {
-  background: #f15f22;
+  background: #4419d0;
   bottom: 0;
 }
 .team-area .single-team:hover .team-caption h3 a {
@@ -3071,8 +3071,8 @@ hero-btn {
   border: 1px solid #616373;
 }
 .h1-testimonial-active button.slick-arrow:hover {
-  border: 1px solid #f15f22;
-  color: #f15f22;
+  border: 1px solid #4419d0;
+  color: #4419d0;
 }
 .h1-testimonial-active button.slick-next {
   right: 31px;
@@ -3167,7 +3167,7 @@ hero-btn {
   font-size: 18px;
 }
 .footer-area .footer-heading .contact-number {
-  color: #ff5f13;
+  color: #4419d0;
   font-size: 36px;
   font-weight: 700;
 }
@@ -3238,7 +3238,7 @@ hero-btn {
   font-weight: 300;
 }
 .footer-area .footer-top .single-footer-caption .footer-tittle ul li a:hover {
-  color: #f15f22;
+  color: #4419d0;
   padding-left: 5px;
 }
 .footer-area .footer-bottom {
@@ -3253,10 +3253,10 @@ hero-btn {
   margin-bottom: 12px;
 }
 .footer-area .footer-bottom .footer-copy-right p i {
-  color: #f15f22;
+  color: #4419d0;
 }
 .footer-area .footer-bottom .footer-copy-right p a {
-  color: #f15f22;
+  color: #4419d0;
 }
 .footer-area .footer-social a {
   color: #848493;
@@ -3284,7 +3284,7 @@ hero-btn {
   content: "";
   width: 75px;
   height: 3px;
-  background: #f15f22;
+  background: #4419d0;
   left: 0;
   top: 52%;
   transform: translateY(-50%);
@@ -3332,7 +3332,7 @@ hero-btn {
   }
 }
 .home-blog-area .home-blog-single .blog-caption .blog-date span {
-  color: #f15f22;
+  color: #4419d0;
   font-size: 32px;
   font-weight: 700;
   line-height: 1;
@@ -3399,7 +3399,7 @@ hero-btn {
   display: block;
 }
 .home-blog-area .home-blog-single .blog-caption .blog-cap h3 a:hover {
-  color: #f15f22;
+  color: #4419d0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .home-blog-area .home-blog-single .blog-caption .blog-cap h3 a {
@@ -3431,7 +3431,7 @@ hero-btn {
 }
 .blog_area a:hover,
 .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #f15f22 0%, #f15f22 99%);
+  background: -webkit-linear-gradient(131deg, #4419d0 0%, #4419d0 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -3808,7 +3808,7 @@ hero-btn {
   color: #242b5e;
 }
 .blog_details a:hover {
-  color: #ff5f13;
+  color: #4419d0;
 }
 .blog_details h2 {
   font-size: 18px;
@@ -3856,7 +3856,7 @@ hero-btn {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #f15f22;
+  background-color: #4419d0;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -3925,7 +3925,7 @@ hero-btn {
   box-shadow: none;
 }
 .blog_right_sidebar .search_widget .input-group button {
-  background: #f15f22;
+  background: #4419d0;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -4023,7 +4023,7 @@ hero-btn {
   font-size: 13px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #f15f22;
+  background: #4419d0;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -4198,7 +4198,7 @@ hero-btn {
   display: inline-block;
 }
 .single-post-area .blog-author a:hover {
-  color: #ff5f13;
+  color: #4419d0;
 }
 .single-post-area .blog-author p {
   margin-bottom: 0;
@@ -5752,7 +5752,7 @@ del {
     padding: 85px 22px;
     position: relative;
     z-index: 1;
-    background: #ff5f13;
+    background: #4419d0;
   }
   @media (max-width: 575px) {
     .us-area .single-cat {
